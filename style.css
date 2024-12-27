@@ -110,7 +110,7 @@ nav .logo img{
     line-height: 2pc;
     font-size: large;
     text-shadow: 1px 1px 1px #2213f146;
-    color: white;
+    color: black;
     
 }
 
@@ -292,7 +292,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 5px 15px;
-    background-color:  #05396cf1;;
+    background-color:white;
     width: 100%;
     top: 0pc;
     z-index:1000;
