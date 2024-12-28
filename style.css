@@ -81,7 +81,7 @@ nav .logo img{
     background-color: white;
     background-size: cover;
     background-position: center;
-    padding: 100px 80px;
+    padding: 90px 80px;
     text-align: left;
     color: rgb(247, 245, 246);
     height: auto;
@@ -106,8 +106,8 @@ nav .logo img{
 
 .hero-text{
     font-size: larger;
-    margin:100px;
-    line-height: 2pc;
+    margin:90px;
+    line-height: 1pc;
     font-size: large;
     text-shadow: 1px 1px 1px #2213f146;
     color: black;
