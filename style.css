@@ -190,19 +190,19 @@ nav .logo img{
     margin-left: auto;
     margin-right: auto; /* Centers the image horizontally */
 }
-}
 
 .service-item h3 {
     color: #007bff;
     font-size: 1.5rem;
     margin-bottom: 10px;
 }
-/* Hide the text initially */
+
+/* Hide the paragraph text initially */
 .service-item p {
     display: none;
 }
 
-/* Show the text on hover */
+/* Show the paragraph text on hover */
 .service-item:hover p {
     display: block;
 }
