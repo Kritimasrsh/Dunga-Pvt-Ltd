@@ -104,14 +104,15 @@ nav .logo img{
     opacity: 0.5; 
 }
 
-.hero-text{
+.hero-text {
     font-size: larger;
-    margin:90px;
+    white-space: nowrap; /* Ensure text does not wrap */
+    overflow: hidden; /* Hide overflow if text is too long */
+    text-overflow: ellipsis; /* Add ellipsis for overflow text */
     line-height: 1pc;
     font-size: large;
     text-shadow: 1px 1px 1px #2213f146;
     color: black;
-    
 }
 
 .hero p{
