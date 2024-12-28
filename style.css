@@ -47,7 +47,7 @@ nav .logo img{
 
 .nav-links li a{
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 15px;
     font-weight: 400;   
   
@@ -62,7 +62,7 @@ nav .logo img{
     position: absolute;
     width: 0;
     height: 1px;
-    background-color: white; 
+    background-color: black; 
     bottom: 0;
     left: 0;
     transition: width 0.3s ease-in-out;
@@ -78,7 +78,7 @@ nav .logo img{
 }
 
 .hero{
-    background-color: #0d233cf0;
+    background-color: white;
     background-size: cover;
     background-position: center;
     padding: 80px 60px;
